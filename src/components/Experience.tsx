@@ -4,28 +4,28 @@ const experiences = [
   {
     icon: Briefcase,
     role: "Freelance Web Developer",
-    period: "2022 - Present",
+    period: "2023 - Present",
     description: "Building custom websites and digital solutions for clients across various industries.",
     color: "bg-primary"
   },
   {
     icon: Camera,
     role: "Social Media Manager & Videographer",
-    period: "2021 - Present",
+    period: "Jan 2025 - Aug 2025",
     description: "Creating engaging video content and managing social media presence for small businesses.",
     color: "bg-accent"
   },
   {
     icon: Wrench,
     role: "IT Support Specialist",
-    period: "2020 - Present",
+    period: "2024 - Present",
     description: "Providing technical support, system maintenance, and troubleshooting services.",
     color: "bg-primary"
   },
   {
     icon: Heart,
     role: "Community Outreach Volunteer",
-    period: "2019 - Present",
+    period: "2024 - Present",
     description: "Engaging in community development projects and digital advocacy initiatives.",
     color: "bg-accent"
   }

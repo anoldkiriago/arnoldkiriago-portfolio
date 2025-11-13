@@ -22,8 +22,8 @@ const contactInfo = [
   {
     icon: Linkedin,
     label: "LinkedIn",
-    value: "linkedin.com/in/arnoldkiriago",
-    href: "https://linkedin.com/in/arnoldkiriago"
+    value: "linkedin.com/in/arnold-kiriago",
+    href: "https://www.linkedin.com/in/arnold-kiriago"
   }
 ];
 
@@ -132,20 +132,10 @@ export const Contact = () => {
                       <p className="font-medium group-hover:text-primary transition-colors">{info.value}</p>
                     </div>
                   </a>
-                </Card>
-              ))}
-            </div>
-
-            <Card className="glass p-6">
-              <h3 className="text-lg font-semibold mb-3">Portfolio Website</h3>
-              <p className="text-muted-foreground mb-4">
-                Visit my portfolio for more examples of my work
-              </p>
-              <Button variant="outline" className="w-full hover:scale-105 transition-transform">
-                www.arnoldkiriago.com
-              </Button>
             </Card>
-          </div>
+          ))}
+        </div>
+      </div>
         </div>
       </div>
     </section>
