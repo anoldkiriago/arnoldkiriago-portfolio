@@ -36,9 +36,12 @@ export const Hero = () => {
                 size="lg" 
                 variant="outline" 
                 className="gap-2 hover:scale-105 transition-transform duration-300"
+                asChild
               >
-                <Download className="w-5 h-5" />
-                Download CV
+                <a href="/Arnold_Kiriago_CV.docx" download>
+                  <Download className="w-5 h-5" />
+                  Download CV
+                </a>
               </Button>
               <Button 
                 size="lg" 
